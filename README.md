@@ -3,5 +3,5 @@ Image classification algorithm, using Deep Convolutional Neural Networks, Multi-
 
 ![](percentages.png)
 <p align="center">
-  <img width="460" height="300" src="augmented_images.png">
+  <img src="augmented_images.png">
 </p>
