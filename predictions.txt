@@ -1,0 +1,6 @@
+
+Grey Xception top 1 accuracy = 0.93,
+
+
+Color Xception top 1 accuracy = 0.97,
+
